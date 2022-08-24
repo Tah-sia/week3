@@ -1,2 +1,2 @@
 # week3
-https://github.com/Tah-sia/week3
+https://tah-sia.github.io/week3/
